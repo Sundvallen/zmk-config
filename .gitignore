@@ -1,1 +1,3 @@
 .DS_Store
+# Local build output from wsl-build.sh
+firmware/
